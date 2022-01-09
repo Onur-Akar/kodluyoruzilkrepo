@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) .net core Eğitiminde oluşturduğu
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code prograöında açınız.
 
-Lniux için:
+Linux için:
 
 ```
 cd kodluyoruzilkrepo
